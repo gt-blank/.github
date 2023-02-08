@@ -1,7 +1,7 @@
 # Grand Theft Blank 
 
-GT_ is a cooperative and inclusive space aimed at providing room for shared infrastructure and interdiciplinary discourse.
-Currently it focusses mainly on science, technology and the arts but this can shift with the interests of its users. 
+GT_ is a cooperative and inclusive space aimed at providing room for shared infrastructure and interdisciplinary discourse.
+Currently it focuses mainly on science, technology and the arts but this can shift with the interests of its users. 
 
 In principle, it is governed and managed by its long-term members (who also pay the rent) with the consideration to hold the autonomy of its users and their ability to contribute or produce as paramount.
 
